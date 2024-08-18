@@ -1,0 +1,6 @@
+﻿  source10.c
+C:\kimaery\Project1\Project1\source10.c(60,7): error C2374: 'name': 재정의. 여러 번 초기화했습니다.
+C:\kimaery\Project1\Project1\source10.c(68,17): error C2065: 'name2': 선언되지 않은 식별자입니다.
+C:\kimaery\Project1\Project1\source10.c(68,22): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\kimaery\Project1\Project1\source10.c(68,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\kimaery\Project1\Project1\source10.c(51,37): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
